@@ -11,4 +11,4 @@ This is only the first stage of the build of the new Chamber website and we hope
 - [ ] Please contribute details about your business so we can add you to the list of members and help drive traffic to your website.
 
 ## Suggestions, Corrections & Bugs
-If you've got a cool idea for the website then we can't wait to hear it.  Please open an issue in the issues tracker and tell us all about it.  
+If you've got a cool idea for the website then we can't wait to hear it.  Please [open an issue](https://github.com/rdcoc/website/issues/new) in the [issues tracker](https://github.com/rdcoc/website/issues) and tell us all about it.  
