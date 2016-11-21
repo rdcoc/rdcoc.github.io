@@ -10,3 +10,5 @@ This is only the first stage of the build of the new Chamber website and we hope
 - [ ] We're going to make a quick video to show how you can contribute changes to the webste and how to sign up for a github account.
 - [ ] Please contribute details about your business so we can add you to the list of members and help drive traffic to your website.
 
+## Suggestions, Corrections & Bugs
+If you've got a cool idea for the website then we can't wait to hear it.  Please open an issue in the issues tracker and tell us all about it.  
